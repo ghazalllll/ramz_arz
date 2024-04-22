@@ -36,13 +36,13 @@ def get_webpage_btc():
     
     purchase_price = int(price1)
     #قابلیت ارسال ایمیل
-    if purchase_price >= 47000:
+    if purchase_price >= 100000:
         smtp_server ='smtp.gmail.com'
         port = 465
 
-        sender = 'sender_email'  
-        receiver = 'recipient_email' 
-        password = " password"
+        sender = ' '  
+        receiver = ' ' 
+        password = " "
 
         message =''' \
         subject:Test
@@ -130,13 +130,13 @@ def get_webpage_eth():
 
     purchase_price = int(price1)
     #قابلیت ارسال ایمیل
-    if purchase_price >= 46000:
+    if purchase_price >= 100000:
         smtp_server ='smtp.gmail.com'
         port = 465
 
-        sender = 'sender_email'  
-        receiver = 'recipient_email' 
-        password = " password"
+        sender = ' '  
+        receiver = ' ' 
+        password = " "
 
         message =''' \
         subject:Test
