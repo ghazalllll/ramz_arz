@@ -1,0 +1,16 @@
+beautifulsoup4==4.12.3
+beepy 
+certifi==2024.2.2
+charset-normalizer==3.3.2
+geographiclib==2.0
+geopy 
+idna==3.6
+numpy==1.26.4
+pillow==10.2.0
+pytz==2024.1
+requests==2.31.0
+secure-smtplib 
+simpleaudio==1.0.4
+soupsieve==2.5
+Unidecode==1.3.8
+urllib3==2.2.0
